@@ -3,8 +3,8 @@
     "displayName": "Material Darker+",
     "description": "A simple material theme with yellow accents",
     "publisher": "jos3s",
-    "icon": "https://imgur.com/2tWsCEy",
     "author": "José Ulisses",
+    "icon": "logo.png",
     "version": "0.1.0",
     "galleryBanner": {
         "color": "090b10",
