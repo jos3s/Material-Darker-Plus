@@ -1,0 +1,41 @@
+{
+    "name": "material-darker-plus",
+    "displayName": "Material Darker+",
+    "description": "A simple material theme with yellow accents",
+    "publisher": "jos3s",
+    "author": "José Ulisses",
+    "version": "0.0.1",
+    "galleryBanner": {
+        "color": "fff176",
+        "theme": "dark"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "bugs": {
+        "url": ""
+    },
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "VSCode",
+        "Themes",
+        "Yellow",
+        "Material",
+        "Material Theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Material Darker+",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Material Darker+-color-theme.json"
+            }
+        ]
+    }
+}
