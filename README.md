@@ -1,5 +1,9 @@
 # README
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/jos3s/Material-Darker-Plus?style=for-the-badge)
+[![GitHub stars](https://img.shields.io/github/stars/jos3s/Material-Darker-Plus?style=for-the-badge)](https://github.com/jos3s/Material-Darker-Plus/stargazers)
+[![GitHub license](https://img.shields.io/github/license/jos3s/Material-Darker-Plus?style=for-the-badge)](https://github.com/jos3s/Material-Darker-Plus/blob/master/LICENSE)
+
 ## Activate theme
 
 Launch *Quick Open*:
