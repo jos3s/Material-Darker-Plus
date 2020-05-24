@@ -4,6 +4,20 @@
 [![GitHub stars](https://img.shields.io/github/stars/jos3s/Material-Darker-Plus?style=for-the-badge)](https://github.com/jos3s/Material-Darker-Plus/stargazers)
 [![GitHub license](https://img.shields.io/github/license/jos3s/Material-Darker-Plus?style=for-the-badge)](https://github.com/jos3s/Material-Darker-Plus/blob/master/LICENSE)
 
+## Material Darker+
+
+![Image](theme.jpg)
+
+## Installation
+
+1. Install [Visual Studio Code](https://code.visualstudio.com/)
+2. Launch Visual Studio Code
+3. Choose **Extensions** from menu
+4. Search for `material darker+`
+5. Click **Install** to install it
+6. Click **Reload** to reload the Code
+7. From the menu bar click: Code > Preferences > Color Theme > **Night Owl**
+
 ## Activate theme
 
 Launch *Quick Open*:
@@ -14,10 +28,4 @@ Launch *Quick Open*:
 
 Type `theme`, choose `Preferences: Color Theme`, and select Material Darker+.
 
-## Material Darker+
-
-![Image](theme.jpg)
-
 **Enjoy!**
-
-### 
