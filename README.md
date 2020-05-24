@@ -14,7 +14,7 @@
 4. Search for `material darker+`
 5. Click **Install** to install it
 6. Click **Reload** to reload the Code
-7. From the menu bar click: Code > Preferences > Color Theme > **Night Owl**
+7. From the menu bar click: Code > Preferences > Color Theme > **Material Darker+**
 
 ##  ✨Activate theme
 
