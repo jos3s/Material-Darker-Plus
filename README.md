@@ -4,7 +4,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/jos3s/Material-Darker-Plus?style=for-the-badge)](https://github.com/jos3s/Material-Darker-Plus/stargazers)
 [![GitHub license](https://img.shields.io/github/license/jos3s/Material-Darker-Plus?style=for-the-badge)](https://github.com/jos3s/Material-Darker-Plus/blob/master/LICENSE)
 
-![Image](theme.jpg)
+![Image](theme-yellow.jpg)
 
 ## ✔ Installation
 
@@ -24,7 +24,7 @@ Launch *Quick Open*:
   - <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> `⌘ + Shift + P`
   - <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> `Ctrl + Shift + P`
 
-Type `theme`, choose `Preferences: Color Theme`, and select Material Darker+.
+Type `theme`, choose `Preferences: Color Theme`, and select Material Darker Plus Yellow, Cyan or Green.
 
 ## ✍️ Authors 
 

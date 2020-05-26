@@ -5,7 +5,7 @@
     "publisher": "jos3s",
     "author": "José Ulisses",
     "icon": "logo.png",
-    "version": "0.1.1",
+    "version": "0.2.0",
     "galleryBanner": {
         "color": "090b10",
         "theme": "dark"
@@ -33,9 +33,19 @@
     "contributes": {
         "themes": [
             {
-                "label": "Material Darker+",
+                "label": "Material Darker+ Yellow",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Material Darker+-color-theme.json"
+                "path": "./themes/Material-Darker-Plus-Theme-Yellow.json"
+            },
+            {
+                "label": "Material Darker+ Cyan",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Material-Darker-Plus-Theme-Cyan.json"
+            },
+            {
+                "label": "Material Darker+ Green",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Material-Darker-Plus-Theme-Green.json"
             }
         ]
     }
